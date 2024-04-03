@@ -7,14 +7,12 @@ Tensor flow 1.15
 
 Code:
 1:Dualism structure for futures
-
 DualismTrain.py # sample code for Dualism GAN for futures Strategy. To execute, simply place the data and program in the same folder.
 
 PreDataTest1.csv / PreDataTest1.csv / PreDataTrain.csv / PricDataTrain.csv # The futures data DualismTrain.py requires (collected and organized by myself) to operate.
 Data in website : https://drive.google.com/drive/folders/10rw2nIxtssIeQi24DGPHOU3kl74SoLrN?usp=drive_link
 
 2:(This does not conform to the Dualism framework because there is no opposition / MNIST database.)
-
 DualGenerator.py # sample code for Dual Generator. To execute directly
 
 Dualism has two states. When no input data as x, it keeps in balance. left & right keep original state。
